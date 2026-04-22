@@ -375,3 +375,5 @@ MIT
 **Agency comes from the model. The harness makes agency real. Build great harnesses. The model will do the rest.**
 
 **Bash is all you need. Real agents are all the universe needs.**
+#   l e a r n - c l a u d e - c o d e  
+ 
